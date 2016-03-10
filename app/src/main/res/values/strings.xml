@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">DownloadAppAsyncTask</string>
+    <string-array name="songs_name">
+        <item>Khu Te Bar</item>
+        <item>Take Your Sandals Off</item>
+        <item>Saturday Saturday</item>
+        <item>Honedo Batiya</item>
+        <item>Don\'t Look At Me</item>
+        <item>Proper Patola</item>
+        <item>Dj Waley Babu</item>
+        <item>Fateh</item>
+        <item>Baagi Jatt</item>
+        <item>Yaar, 17</item>
+        <item>Chull</item>
+    </string-array>
+    <string-array name="songs_url">
+        <item>http://h.saavncdn.com/191/SONY_886445480191_01_008.mp3</item>
+        <item>http://h.saavncdn.com/191/SONY_886445480191_01_005.mp3</item>
+        <item>http://h.saavncdn.com/191/SONY_886445480191_01_002.mp3</item>
+        <item>http://h.saavncdn.com/191/SONY_886445480191_01_009.mp3</item>
+        <item>http://h.saavncdn.com/191/SONY_886445480191_01_003.mp3</item>
+        <item>http://h.saavncdn.com/191/SONY_886445480191_01_001.mp3</item>
+        <item>http://h.saavncdn.com/191/SONY_886445480191_01_004.mp3</item>
+        <item>http://h.saavncdn.com/191/SONY_886445480191_01_010.mp3</item>
+        <item>http://h.saavncdn.com/191/SONY_886445480191_01_010.mp3</item>
+        <item>http://h.saavncdn.com/191/SONY_886445480191_01_007.mp3</item>
+        <item>http://h.saavncdn.com/191/SONY_886445480191_01_006.mp3</item>
+    </string-array>
+</resources>
